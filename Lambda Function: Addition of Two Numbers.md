@@ -23,4 +23,4 @@ print(f(i, j,z))
 ![image](https://github.com/user-attachments/assets/0b725bfb-b10c-41f9-9d1d-dca5f0cec10a)
 
 ## Result
-Thus, the program as been excuted successfully.
+Thus,the Python program that defines a lambda function which takes two arguments a and b, and returns their sum is created successfully.
